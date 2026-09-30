@@ -12,7 +12,8 @@ export default function FooterSection() {
 
         {/* Legal Disclaimer */}
         <p className="text-[10px] sm:text-[11px] text-slate-500 leading-relaxed font-normal">
-          © 2026. Todos os direitos reservados. Site sem vínculo com Facebook, Instagram ou Meta. Informações comerciais sobre este produto. Dados não são vendidos ou usados para spam.
+          Site sem vínculo com Facebook, Instagram ou Meta. Informações comerciais sobre este produto. Dados não são vendidos ou usados para spam.  
+        </p>
       </div>
     </footer>
   );
