@@ -12,8 +12,7 @@ export default function FooterSection() {
 
         {/* Legal Disclaimer */}
         <p className="text-[10px] sm:text-[11px] text-slate-500 leading-relaxed font-normal">
-          Este site não é afiliado ao Facebook ou a qualquer entidade do Facebook. Após sair do Facebook, a responsabilidade não é deles e sim do nosso site. Fazemos todos os esforços para indicar claramente e mostrar todas as provas do produto e usamos resultados reais. Nós não vendemos o seu e-mail ou qualquer informação para terceiros. Jamais fazemos algum tipo de spam. Se você tiver alguma dúvida, sinta-se à vontade para usar o link de contato e falar conosco em horário comercial de Segunda a Sextas das 09h00 às 18h00. Lemos e respondemos todas as mensagens por ordem de chegada.
-        </p>
+          © 2026. Todos os direitos reservados. Site sem vínculo com Facebook, Instagram ou Meta. Informações comerciais sobre este produto. Dados não são vendidos ou usados para spam.
       </div>
     </footer>
   );
