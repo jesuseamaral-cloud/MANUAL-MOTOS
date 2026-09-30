@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@keyframes cardPulse {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);
+  }
+  50% {
+    transform: scale(1.035);
+    box-shadow: 0 10px 20px -3px rgba(16, 185, 129, 0.3), 0 4px 6px -4px rgba(16, 185, 129, 0.2);
+  }
+}
+
+.hover-pulse {
+  transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.hover-pulse:hover {
+  animation: cardPulse 1.1s ease-in-out infinite;
+  border-color: #10b981;
+}

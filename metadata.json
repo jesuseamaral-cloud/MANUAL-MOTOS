@@ -1,0 +1,6 @@
+{
+  "name": "Fichas de Diagnóstico de Motos",
+  "description": "+120 Fichas de Diagnóstico de Motos por Sintoma. Acerte a peça certa antes de trocar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
